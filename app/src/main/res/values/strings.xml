@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InspirationalPeople</string>
+    <string name="people_name">Name</string>
+    <string name="detail">Detail</string>
+    <string name="famous_quote">Kutipan Terkenal :</string>
+    <string name="nama_ku">Farhan Mufti Hilmy</string>
+    <string name="email_ku">farhanmuftihilmy@gmail.com</string>
+    <string name="profile">profile</string>
+</resources>
